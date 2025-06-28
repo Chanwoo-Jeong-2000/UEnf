@@ -1,8 +1,8 @@
 # Reconsidering Negative Feedback in Recommender Systems
 
-[UEnf_Korean_version.pdf](https://github.com/user-attachments/files/20961885/UEnf_Korean_version.pdf)
-[UEnf_English_version.pdf](https://github.com/user-attachments/files/20961886/UEnf_English_version.pdf)
-[UEnf_poster.pdf](https://github.com/user-attachments/files/20961812/UEnf_poster.pdf)
+- [Korean Version (UEnf_Korean_version.pdf)](https://github.com/user-attachments/files/20961885/UEnf_Korean_version.pdf)  
+- [English Version (UEnf_English_version.pdf)](https://github.com/user-attachments/files/20961886/UEnf_English_version.pdf)  
+- [Poster (UEnf_poster.pdf)](https://github.com/user-attachments/files/20961812/UEnf_poster.pdf)
 
 # Datasets
 Download **ML-20M** from [here](https://grouplens.org/datasets/movielens/20m/).
